@@ -1,0 +1,8 @@
+.eg-destacados .card {
+    heigth: 100%;
+}
+
+.eg-destacados .card img {
+    heigth: 200px;
+    object-fit: cover;
+}
